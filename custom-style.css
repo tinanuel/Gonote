@@ -22,7 +22,7 @@ h1,h2 {
 	font-variant: small-caps;
 }
 
-.main-header {
+#main-header {
 	background-color: #D1FAD2;
 	padding: 10px;
 }
